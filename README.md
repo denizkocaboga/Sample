@@ -1,4 +1,4 @@
-Gecikme için kusura bakmayın. Daha önce telefonda da dediğim gibi. Geçen hafta şehir dışındaydım bu yüzden projeye ancak çarşamba günü başlayabildim. Bundan dolayı aşağıda ki istekleri de henüz bitiremedim. Ancak bugün her halükarda bunlarıda ekleyip yayınlayacağım ve size de bilgisini vereceğim. İster. İsterseniz bakarsınız. Ben şimdiden yapacaklarımı yazıyorum buraya.
+Gecikme için kusura bakmayın. Daha önce telefonda da dediğim gibi. Geçen hafta şehir dışındaydım bu yüzden projeye ancak çarşamba günü başlayabildim. Bundan dolayı aşağıda ki istekleri de henüz bitiremedim. Ancak bugün her halükarda bunlarıda ekleyip yayınlayacağım ve size de bilgisini vereceğim. Ben şimdiden yapacaklarımı yazıyorum buraya.
 
   a. Logging: 
       NLog kullanacağım. Log'u text dosyasında tutacağım. Config ayarlarından her gün yeni bir dosya oluşturmasını sağlayacağım. 
