@@ -1,5 +1,3 @@
-Gecikme için kusura bakmayın. Daha önce telefonda da dediğim gibi. Geçen hafta şehir dışındaydım bu yüzden projeye ancak çarşamba günü başlayabildim. Bundan dolayı aşağıda ki istekleri de henüz bitiremedim. Ancak bugün her halükarda bunlarıda ekleyip yayınlayacağım ve size de bilgisini vereceğim. Ben şimdiden yapacaklarımı yazıyorum buraya.
-
   a. Logging: 
       NLog kullanacağım. Log'u text dosyasında tutacağım. Config ayarlarından her gün yeni bir dosya oluşturmasını sağlayacağım. 
       Her request InfoLog'a kaydedilecek. 
@@ -22,5 +20,4 @@ Gecikme için kusura bakmayın. Daha önce telefonda da dediğim gibi. Geçen ha
   Veri tabanı olarak ElasticSearch kullandım. Hem talebinize en uygun teknolojinin bu olduğunu düşünüyorum hem de görüşmemizde kullandığınızı söylemiştiniz.
   Ancak ElasticSearch projeye gömülü değil. Vaktim olmadı onu yapmaya. Dediğim gibi onu da yapacağım.
   Bundan dolayı projeyi çalıştırabilmek için localinize elastic kurmanız gerekiyor. 
- 
  
